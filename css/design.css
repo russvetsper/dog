@@ -1,8 +1,17 @@
-img {
+.puppy {
   float: right;
+  border: 20px solid blue;
 }
 .columns {
-  width: 400px;
   float: right;
-
+  width: 400px;
+}
+.manbag {
+  width: 10%;
+  length: 100%;
+  float: left;
+  background-color: grey;
+  border: 20px solid red;
+  padding: 40px;
+  margin: 10px;
 }
